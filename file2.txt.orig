@@ -4,8 +4,12 @@ vsowrirajan - Testing git rebase command
 
 venkata91 - Testing git rebase command
 
+<<<<<<< HEAD
 Test Git rebase command again
 
 vsowrirajan - Testing git rebase command
+=======
+Testing git rebase command again
 
 venkata91 - Testing git rebase command
+>>>>>>> Git rebase 2 - venkata91
